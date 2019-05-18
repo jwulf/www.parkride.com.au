@@ -9,9 +9,9 @@ intro:
     heading: "Our Story"
     text: "Inspired by the success of \"Park Run\" in empowering the community to run, Park Ride was started at the Aurecon/TMR Bike Hack 2019 to empower the Brisbane community to ride together. Get on your bike and find your tribe."
 caseforaction:
-    - heading: "What's So Now"
+    - heading: "What's Predictable"
       image: img/illustrations-coffee.svg
-      text: "Climate change affects all of us. Scientists estimate that if we don't reduce our carbon footprint, by 2030 we'll be at the tipping point. More immediately, sedentary life is causing an explosion of Type 2 Diabetes and other chronic illnesses - including depression. When you're sitting down you are not exercising, and when you're driving you are sitting down and contributing to carbon emissions."
+      text: "Climate change affects all of us. Scientists estimate that if we don't reduce our carbon footprint, by 2030 we'll be at the tipping point. More immediately, sedentary life is causing an explosion of Type 2 Diabetes and other chronic illnesses - including depression. When you're sitting down you are not exercising, and when you're driving you are sitting down *and* contributing to carbon emissions."
     - heading: "What's Possible"
       image: /img/illustrations-coffee-gear.svg
       text: "Cycling is a environmentally friendly mode of transport that is also good for your health. And when you do it with a group of people you experience being connected, being part of a tribe supporting and inspiring each other in making a difference in your personal health and the future of our world. Get the kids off the computer, get on your bike, and join your tribe."
