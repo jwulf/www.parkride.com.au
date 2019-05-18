@@ -1,14 +1,10 @@
 ---
-title: "How it Works"
-logo: "/img/logo.svg"
+title: "How It Works"
+image: /img/logo2.svg
+type: howitworks
+description: How Park Ride works
+blurb:
+  heading: How It Works
+  text: >
+    Find a local ride on the website, or start one in your area. Rock up before 8am on Sunday, and ride with others, for great justice!
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
