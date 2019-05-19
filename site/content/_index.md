@@ -7,7 +7,7 @@ blurb:
     text: "Such a simple concept: turn up of a Sunday morning, and ride with others on one of Brisbane's many cycle routes. Enjoy a healthy, happier lifestyle outdoors in community."
 intro:
     heading: "Our Story"
-    text: "Inspired by the success of \"Park Run\" in empowering the community to run, Park Ride was started at the Aurecon/TMR Bike Hack 2019 to empower the Brisbane community to ride together. Get on your bike and find your tribe."
+    text: "Inspired by the success of parkrun in empowering the community to run, Park Ride was started at the Aurecon/TMR Bike Hack 2019 to empower the Brisbane community to ride together. Get on your bike and find your tribe."
 caseforaction:
     - heading: "What's Predictable"
       image: img/illustrations-coffee.svg
